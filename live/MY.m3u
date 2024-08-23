@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://iptv-pro.github.io/logo/8TV.png" group-title="Entertainment",8TV (1080p) [Geo-blocked]
+https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/hls/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2I3YzU3OWQtY2Y1MS0zYTMyLTgyMzMtZGZiNGEzZDFhNmRi
+#EXTINF:-1 group-title="Chinese Variety" tvg-id="108" tvg-chno="108" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
+http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
